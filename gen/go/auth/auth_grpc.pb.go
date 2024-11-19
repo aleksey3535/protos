@@ -4,7 +4,7 @@
 // - protoc             v5.28.3
 // source: auth/auth.proto
 
-package authv1
+package auth
 
 import (
 	context "context"
