@@ -1,4 +1,4 @@
-module proto
+module github.com/aleksey3535/protos
 
 go 1.23.1
 
